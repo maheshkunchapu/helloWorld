@@ -1,4 +1,4 @@
-//writing code for new project"HelloWorld.java"
+//writteng code for new project"HelloWorld.java"
 /* HelloWorld.java
  */
 
